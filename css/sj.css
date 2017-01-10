@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	z-index:1000;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.2);}
+
+@media screen and (max-width:1024px){
+	.logo{
+		padding-top:15px;}
+	.menu .cp li a{
+	font-size:22px;
+	}
+	.menu li a{
+	font-size:26px;
+	}
+	.menu li{
+		line-height:100px;}
+	.inner{
+		padding:0 20px;
+		width:940px;}
+	.inner-1{
+		padding:0 20px;
+		width:940px;}	
+	
+	.jianjie p{
+		padding-top:20px;
+		line-height:40px;
+		}
+	.gywm-x h1,.gywm-x h2,.gywm-x h3,.gywm-x h4,.gywm-x h5,.gywm-x h6{
+		font-size:40px;
+		padding-top:40px;}
+	.ry>li{
+		line-height:40px;}	
+	.ry{
+		padding-top:20px;}	
+	.main-2-1 h2{
+		font-size:38px;}	
+	.main-2-1 h3{
+		font-size:26px;}	
+	.guan{
+		width:50px;
+		height:50px;
+		margin-top:0;
+		opacity:1;}	
+	.main-4,.main-5,.main-6{
+		background-attachment:scroll;
+		
+		}	
+	.main-2-y{
+		width:828px;}	
+		
+					
+}
